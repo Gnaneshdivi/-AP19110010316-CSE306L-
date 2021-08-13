@@ -103,4 +103,8 @@ void main() {
 
     printf("\n\nString not accepted\n\n");
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c940fb43b864caa8d9475cde4934887cf7955bf6
