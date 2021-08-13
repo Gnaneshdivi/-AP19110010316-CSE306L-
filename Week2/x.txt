@@ -1,6 +1,6 @@
-123 main(){
-    int a,b ==2.567,8;
-    /* adkjbalkbadkj
-    asdkjas
-    */
+123 main()
+{
+int a=5;
+char b="hello";
+/*fgh + 89
 }

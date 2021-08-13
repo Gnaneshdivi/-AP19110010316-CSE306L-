@@ -5,15 +5,13 @@ main : identifier
 )
 
 {
-
- 
+ 
 int : keyword 
 a : identifier
 ! 
 5: number
 ;
-
- 
+ 
 char : keyword 
 b : identifier
 !
@@ -21,13 +19,17 @@ b : identifier
 hello : identifier
 "
 ;
-
-comment did not close
- identifier 1 - ï¿½yï¿½ï¿½
+comment did not close
+ identifier 1 - ÓÏæş
  identifier 2 - main
- identifier 3 - 
- identifier 4 - a
- identifier 5 - p}Vï¿½ï¿½
- identifier 6 - b
- identifier 7 - ï¿½
- identifier 8 - hello
+ identifier 3 - 
+ identifier 4 - Ïæş
+ identifier 5 - ëÏ
+ identifier 6 - a
+ identifier 7 - 
+ identifier 8 - b
+ identifier 9 - èÓÏæş
+ identifier 10 - hello
+ identifier 11 - 
+ identifier 12 - 
+ identifier 13 - `uÂ
